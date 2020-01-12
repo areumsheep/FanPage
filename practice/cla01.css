@@ -1,0 +1,15 @@
+#hi {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#guess {
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 50px;
+    font-weight: bold;
+}
