@@ -1,10 +1,4 @@
 {
-    "1": {
-        "userid": "a-test",
-        "pw": "a-test"
-    },
-    "2": {
-        "userid": "b-test",
-        "pw": "b-test"
-    }
+    "userid": "a-test",
+    "pw": "a-test"
 }

@@ -1,0 +1,7 @@
+body { margin:0;  height:100%; }
+#wrap .MenuBar { position: absolute; top:25px; background-color:#FF8B8B; text-align: center; width:750px; height:70px; 
+    left:50%; transform: translateX(-50%); border-radius: 30px; line-height: 30px; color:white; font-family: 'Roboto', sans-serif; }
+#wrap .MenuBar ul  { padding:0; }
+#wrap .MenuBar ul li { display: inline-block; }
+#wrap .MenuBar ul li a { margin-left:55px; font-weight: 600; letter-spacing: 1px; text-decoration: none; color:white; }
+#wrap .MenuBar ul #logo { font-size: 30px; font-weight: bolder; letter-spacing: 5px; margin-left: -50px; margin-right: 3px;  }
