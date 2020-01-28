@@ -6,7 +6,7 @@ npm init
 pm2 start app.js --no-daemon
 npm install express express-session body-parser
 ```
-node_module은 삭제
+node_module은 삭제해도 괜찮음
 
 vscode와서 pwd
 npm install -g pm2 // 전역변수에 설치됨
