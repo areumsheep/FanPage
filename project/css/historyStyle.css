@@ -1,11 +1,11 @@
 #wrap #movie { text-align: center; }
-#wrap #movie h1 { font-size: 23pt; margin-top:120px; margin-bottom:5px; letter-spacing:8px; font-weight: bolder; }
-#wrap #movie ul { list-style: none; padding:0px; }
+#wrap #movie h1 { font-size: 20pt; margin-top:120px; margin-bottom:5px; letter-spacing:8px; font-weight: bolder; }
+#wrap #movie ul { list-style: none; padding:0px; padding-top: 15px; padding-bottom: 15px; background-color: #FFB8B8; }
 #wrap #movie ul li { display: inline-block; }
 #wrap #movie ul img { width:70%; }
 
 #wrap #drama { text-align: center; }
-#wrap #drama h1 { font-size: 23pt; margin-top:40px; margin-bottom:5px; letter-spacing:8px; font-weight: bolder; }
-#wrap #drama ul { list-style: none; padding:0px; }
+#wrap #drama h1 { font-size: 20pt; margin-top:20px; margin-bottom:5px; letter-spacing:8px; font-weight: bolder; }
+#wrap #drama ul { list-style: none; padding:0px; padding-top: 15px; padding-bottom: 15px; background-color: #FFB8B8; }
 #wrap #drama ul li { display: inline-block; }
 #wrap #drama ul img { width:70%; }
