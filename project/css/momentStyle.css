@@ -1,5 +1,7 @@
-#wrap .youtube { margin-top: 200px; }
+#wrap .button { text-align: center; margin-top:120px; font-size: 20px; }
+#wrap .button input { font-size: 13px; border-radius: 20px; background-color: white; border:1px pink solid; margin:5px; padding:10px; }
+
+#wrap .youtube { margin-top: 40px; }
 #wrap .youtube table { margin: auto; text-align: center; }
-#wrap .youtube table tr { margin-bottom: 50px; }
-#wrap .youtube table tr .text { padding-bottom: 80px; padding-left: 50px; }
-#wrap .youtube table tr td iframe { margin-left: 50px; }
+#wrap .youtube table tr { margin-bottom: 30px; }
+#wrap .youtube table tr td iframe { margin-left: 50px; margin-bottom:80px; }
