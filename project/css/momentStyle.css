@@ -1,0 +1,5 @@
+#wrap .youtube { margin-top: 200px; }
+#wrap .youtube table { margin: auto; text-align: center; }
+#wrap .youtube table tr { margin-bottom: 50px; }
+#wrap .youtube table tr .text { padding-bottom: 80px; padding-left: 50px; }
+#wrap .youtube table tr td iframe { margin-left: 50px; }
