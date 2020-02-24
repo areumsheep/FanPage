@@ -6,24 +6,17 @@ npm init
 pm2 start app.js --no-daemon
 npm install express express-session body-parser
 ```
-node_module은 삭제해도 괜찮음
+생긴 파일들 중에서 node_module은 삭제해도 괜찮음 -> 파일로 전송할 경우 삭제하고 전송하기   
 
-vscode와서 pwd
+```
 npm install -g pm2 // 전역변수에 설치됨
+```
 
-app.js만듬
+app.js만듬 -> 실행하려면 node app.js    
 
-시작할거면
-node app.js
-
+```
 npm install ejs
-15~16 서버에서 받아온 정보 ?!?!?!
-렌더링
-컴퓨터의 주소지정보
 pm2 start app.js --watch
 pm2 start app.js --no-daemon --watch
-
-모듈
-
-정보 가져오는 방법
-쿼리, 파라미터, 헤더, 바디
+```
+정보 가져오는 방법 : 쿼리, 파라미터, 헤더, 바디   
