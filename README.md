@@ -1,12 +1,6 @@
 # FanPage
 👀 html, css, js, json 로 개발한 설리번 프로젝트 - Hyenjin,(서현진 팬 웹사이트)
 
-```
-npm init
-pm2 start app.js --no-daemon
-npm install express express-session body-parser
-```
-
 ### 프로젝트 이미지
 시작화면   
 <img src ="https://user-images.githubusercontent.com/48716298/75563547-df367c80-5a8d-11ea-89a6-b0a378d9f67f.PNG" width="450"></img>   
